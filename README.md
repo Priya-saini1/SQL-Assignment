@@ -1,1 +1,1 @@
-# MySQL-Assignment
+# SQL-Assignment
